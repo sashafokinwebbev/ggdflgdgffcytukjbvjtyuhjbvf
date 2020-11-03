@@ -1,0 +1,1 @@
+xcopy /y /o /e  "C:\OpenServer\domains\control\testserver" "C:\OpenServer\domains\control\reserv\server1"
